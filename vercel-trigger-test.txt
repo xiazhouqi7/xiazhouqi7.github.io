@@ -1,3 +1,0 @@
-Vercel auto-deploy trigger test
-Created by ChatGPT on 2026-08-19 17:42 +08:00
-This file does not affect the website UI.
